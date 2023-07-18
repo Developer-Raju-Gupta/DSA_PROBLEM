@@ -13,7 +13,7 @@ package Assignment02;
 // Explanation: Alice can only eat 6 / 2 = 3 candies. Since there are only 3 types, she can eat one of each type.
 
 // Solution - 
-
+import java.util.*;
 class Solution {
     public int distributeCandies(int[] candyType) {
         

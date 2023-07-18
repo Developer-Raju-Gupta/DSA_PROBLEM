@@ -15,7 +15,7 @@ package Assignment02;
 // Explanation: The score is max(nums) - min(nums) = 1 - 1 = 0.
 
 // ***************Solution*******************
-
+import java.util.*;
 class Solution {
     public int smallestRangeI(int[] nums, int k) {
         int min=nums[0];

@@ -12,7 +12,7 @@ package Assignment02;
 // Explanation: 9 exists in nums and its index is 4
 
 //****************solution***********
-
+import java.util.*;
 class Solution {
     public int search(int[] nums, int target) {
         int first = 0;

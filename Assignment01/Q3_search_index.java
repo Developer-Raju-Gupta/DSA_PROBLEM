@@ -9,7 +9,7 @@ package Assignment01;
 // Output: 2
 
 // ******************Solution*******************
-
+import java.util.*;
 class Solution {
     public int searchInsert(int[] nums, int target) {
         // first approach - O(n)

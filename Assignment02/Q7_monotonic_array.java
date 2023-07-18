@@ -12,7 +12,7 @@ package Assignment02;
 // Output: true
 
 // ****************solution***************
-
+import java.util.*;
 class Solution {
     public boolean isMonotonic(int[] nums) {
         int count1=0;

@@ -15,7 +15,7 @@ package Assignment02;
 // Explanation: The longest harmonious subsequence is [3,2,2,2,3].
 
 // **************Solution**************
-
+import java.util.*;
 class Solution {
     public int findLHS(int[] nums) {
         Arrays.sort(nums);

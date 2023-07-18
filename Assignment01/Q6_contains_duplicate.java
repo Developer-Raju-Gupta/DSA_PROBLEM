@@ -7,7 +7,7 @@ package Assignment01;
 // Output: true
 
 
-
+import java.util.*;
 class Solution {
     public boolean containsDuplicate(int[] nums) {
 

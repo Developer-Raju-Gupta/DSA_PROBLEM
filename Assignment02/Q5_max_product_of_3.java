@@ -7,7 +7,7 @@ package Assignment02;
 // Output: 6
 
 // ****************Solution******************
-
+import java.util.*;
 class Solution {
     public int maximumProduct(int[] nums) {
         Arrays.sort(nums);

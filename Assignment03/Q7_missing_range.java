@@ -17,11 +17,10 @@ package Assignment03;
 // [4,49]
 // [51,74]
 // [76,99]
-
 import java.util.ArrayList;
 import java.util.List;
 
-public class solution {
+class solution {
     public static void main(String[] args) {
         int nums1[] = {0,1,3,50,74};
         int lower1=0, upper1=99;

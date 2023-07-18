@@ -1,3 +1,4 @@
+package Assignment02;
 // Question 8
 // You are given an integer array nums and an integer k.
 

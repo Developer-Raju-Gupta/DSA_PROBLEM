@@ -1,3 +1,4 @@
+package Assignment02;
 // Question 6 
 //Given an array of integers nums which is sorted in ascending order, and an integer target,
 // write a function to search target in nums. If target exists, then return its index. Otherwise,

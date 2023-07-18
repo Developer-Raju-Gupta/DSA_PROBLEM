@@ -1,3 +1,4 @@
+package Assignment02;
 // Question 2
 // Alice has n candies, where the ith candy is of type candyType[i]. Alice noticed that she started to gain weight, so she visited a doctor. 
 

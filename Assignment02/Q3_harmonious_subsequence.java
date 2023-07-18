@@ -1,3 +1,4 @@
+package Assignment02;
 // Question 3
 // We define a harmonious array as an array where the difference between its maximum value
 // and its minimum value is exactly 1.

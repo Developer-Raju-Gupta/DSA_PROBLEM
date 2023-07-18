@@ -1,3 +1,4 @@
+package Assignment03;
 // Question 8
 // Given an array of meeting time intervals where intervals[i] = [starti, endi],
 // determine if a person could attend all meetings.

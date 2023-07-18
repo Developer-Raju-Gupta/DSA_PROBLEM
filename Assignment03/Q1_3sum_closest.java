@@ -1,3 +1,4 @@
+package Assignment03;
 // Question 3
 // Given an array nums of n integers, return an array of all the unique quadruplets
 // [nums[a], nums[b], nums[c], nums[d]] such that:
@@ -12,7 +13,7 @@
 // Output: [[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]
 
 // solution - 
-
+import java.util.*;
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);

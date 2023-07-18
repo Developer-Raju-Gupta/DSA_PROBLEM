@@ -1,3 +1,4 @@
+package Assignment02;
 // Question 6 
 //Given an array of integers nums which is sorted in ascending order, and an integer target,
 // write a function to search target in nums. If target exists, then return its index. Otherwise,
@@ -11,7 +12,7 @@
 // Explanation: 9 exists in nums and its index is 4
 
 //****************solution***********
-
+import java.util.*;
 class Solution {
     public int search(int[] nums, int target) {
         int first = 0;

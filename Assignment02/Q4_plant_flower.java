@@ -1,3 +1,4 @@
+package Assignment02;
 // Question 4
 // You have a long flowerbed in which some of the plots are planted, and some are not.
 // However, flowers cannot be planted in adjacent plots.
@@ -8,7 +9,7 @@
 // Output: true
 
 // *************solution*****************
-
+import java.util.*;
 class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
 

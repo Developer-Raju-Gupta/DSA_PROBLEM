@@ -1,3 +1,4 @@
+package Assignment02;
 // Question 7
 // An array is monotonic if it is either monotone increasing or monotone decreasing.
 
@@ -11,7 +12,7 @@
 // Output: true
 
 // ****************solution***************
-
+import java.util.*;
 class Solution {
     public boolean isMonotonic(int[] nums) {
         int count1=0;

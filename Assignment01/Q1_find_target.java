@@ -1,3 +1,4 @@
+package Assignment01;
 
 // 💡 **Q1.** Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -12,7 +13,7 @@
 // **Explanation:** Because nums[0] + nums[1] == 9, we return [0, 1]
 
 // ************************solution*************
-
+import java.util.*;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
@@ -32,7 +33,6 @@ class Solution {
         // return null;
 
         // 2nd approach 
-
         int result [] = new int[2];
         Map <Integer, Integer> map = new HashMap<>();
         for(int i=0; i<nums.length; i++){

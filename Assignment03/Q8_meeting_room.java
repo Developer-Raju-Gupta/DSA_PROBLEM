@@ -1,3 +1,4 @@
+package Assignment03;
 // Question 8
 // Given an array of meeting time intervals where intervals[i] = [starti, endi],
 // determine if a person could attend all meetings.
@@ -7,8 +8,8 @@
 // Output: false
 
 // solution - 
-
-public class Q8_meeting_room {
+/* 
+ class Q8_meeting_room {
     function canAttendMeetings(intervals) {
         // Sort the intervals in ascending order of start time
         intervals.sort((a, b) => a[0] - b[0]);
@@ -25,5 +26,6 @@ public class Q8_meeting_room {
 
         // If there are no overlaps, we can attend all the meetings
         return true;
-    };
+    }
 }
+*/

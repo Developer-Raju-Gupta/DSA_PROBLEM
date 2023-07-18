@@ -1,3 +1,4 @@
+package Assignment02;
 // Question 3
 // We define a harmonious array as an array where the difference between its maximum value
 // and its minimum value is exactly 1.
@@ -14,7 +15,7 @@
 // Explanation: The longest harmonious subsequence is [3,2,2,2,3].
 
 // **************Solution**************
-
+import java.util.*;
 class Solution {
     public int findLHS(int[] nums) {
         Arrays.sort(nums);

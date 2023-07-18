@@ -1,3 +1,4 @@
+package Assignment02;
 // Question 2
 // Alice has n candies, where the ith candy is of type candyType[i]. Alice noticed that she started to gain weight, so she visited a doctor. 
 
@@ -12,7 +13,7 @@
 // Explanation: Alice can only eat 6 / 2 = 3 candies. Since there are only 3 types, she can eat one of each type.
 
 // Solution - 
-
+import java.util.*;
 class Solution {
     public int distributeCandies(int[] candyType) {
         
